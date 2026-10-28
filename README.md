@@ -10,7 +10,7 @@ Mechatronics Engineering student (ITM, Medellín, Colombia) and data analyst. I 
 
 ## Current work
 
-- **Wearable IMU device for carpal tunnel rehabilitation monitoring** — portable inertial-measurement device to track wrist rehabilitation exercises, including a 3D-printed snap-fit enclosure designed for skin-patch mounting. *(Repository coming soon.)*
+- **[Kinemo](https://github.com/choclox/tunel-del-carpo)** — wearable IMU + EMG system for carpal tunnel rehabilitation monitoring: ESP32 firmware with Madgwick sensor fusion, adaptive repetition counting and a clinician web dashboard. [Live demo](https://choclox.github.io/tunel-del-carpo/)
 - **Neural networks for predictive maintenance** — graduate-level coursework building and iterating neural-network models. *(Repository coming soon.)*
 - **Data engineering** — production data pipelines and automations on Google Cloud (BigQuery, Cloud Run Jobs, Cloud Scheduler, Docker) in a telemedicine setting.
 
