@@ -1,39 +1,26 @@
-# Hi there, I´m Juan 👋
+# Juan Estevan Londoño Ospina
 
-I'm a Mechatronics Engineering student with a passion for programming. I specialize in Python 🐍 and C++, and I enjoy creating innovative solutions to technical problems.
+Mechatronics Engineering student (ITM, Medellín, Colombia) and data analyst. I work at the intersection of **machine learning, sensing and robotic systems**, and I am preparing to pursue a master's degree in AI and robotics.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/choclox/Inventario-Ganado)
+## Research interests
 
-## About Me
+- Machine learning for robotic systems
+- Wearable sensing and human motion analysis
+- Data-driven control and predictive maintenance
 
-- 🎓 **Major**: Mechatronic Engineering
-- 📍 **Location**: Medellin - Colombia
-- 💼 **Current Job/Position**: Mechatronic Engineering student at ITM
-- 🌱 **Current Learning**: Data Scientist, Software Development, etc.  
-- 💬 **Ask me about**: Python, Electronics, Physics, etc.
-- 🎯 **Personal goal**: Aiming to apply Mechatronics and Software Engineering to create innovative solutions in automation, data science, and web development.
+## Current work
 
-## 🛠️ Tech Stack
+- **Wearable IMU device for carpal tunnel rehabilitation monitoring** — portable inertial-measurement device to track wrist rehabilitation exercises, including a 3D-printed snap-fit enclosure designed for skin-patch mounting. *(Repository coming soon.)*
+- **Neural networks for predictive maintenance** — graduate-level coursework building and iterating neural-network models. *(Repository coming soon.)*
+- **Data engineering** — production data pipelines and automations on Google Cloud (BigQuery, Cloud Run Jobs, Cloud Scheduler, Docker) in a telemedicine setting.
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-- **Cloud & Tools**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+## Tech stack
 
-## Get in Touch
+- **Languages:** Python (pandas, NumPy), C++, SQL
+- **Data & cloud:** Google Cloud (BigQuery, Cloud Run, Cloud Build), Docker, PostgreSQL, Looker Studio, Git
+- **Mechatronics:** microcontrollers, sensors and signal conditioning, control systems, industrial networks, CAD and 3D printing
 
-- 📧 [Email](juancholoos2004@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-estevan-londoño-ospina-b474232b1)
+## Contact
 
-[//]: # (- 🌐 **Website/Portfolio**: [Your Personal Website or Portfolio URL])
-
-Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😄
-
-## :zap: Recent Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choclox&hide_border=true&layout=compact)
-
-## 🎮 Outside of Coding
-
-- I love exploring new technologies and creating projects that solve real-world problems.
-- Passionate about learning Data Science and building useful tools.
-- Big fan of tech, engineering challenges, and experimenting with automation projects.
+- Email: [juancholoos2004@gmail.com](mailto:juancholoos2004@gmail.com)
+- LinkedIn: [juan-estevan-londoño-ospina](https://www.linkedin.com/in/juan-estevan-londo%C3%B1o-ospina-b474232b1)
